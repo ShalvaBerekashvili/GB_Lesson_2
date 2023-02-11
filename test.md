@@ -8,11 +8,11 @@
 
 ## git config --global user.name - "имя пользователя"
 
->Команда *git config --global user.name - "имя пользователя"* позволяеет аутентифицировать пользователя.
+>Команда *git config --global user.name - <font color="yellow">"имя пользователя" </font>* позволяеет аутентифицировать пользователя.
 
 ## git config --global user.mail - "email"
 
->Команда git config --global user.mail - "имя пользователя" позволяеет добавть email пользователя.
+>Команда git config --global user.mail - <font color="green"> "имя пользователя" </font>  позволяеет добавть email пользователя.
 
 ## git add -"fale_name"
 
@@ -22,7 +22,7 @@
 
 >Команда git checkout "первые четыре символа хеша" позволяеет перемещаться между комитами.
 
-## git log --pretty=oneline
+## <font color="green"> git log --pretty=oneline </font>
 
 >Команда "git log --pretty=oneline" позволяеет вывести в одну строку хеш_файла + меседж к нему
 
