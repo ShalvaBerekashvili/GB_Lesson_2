@@ -11,3 +11,7 @@
 ## git config --global user.mail - "email"
 
 Команда git config --global user.mail - "имя пользователя" позволяеет добавть email пользователя.
+
+## git add -"fale_name"
+
+Команда git add -"fale_name" позволяеет присвоить изменения коекретному файлу.
