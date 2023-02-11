@@ -1,4 +1,6 @@
-# Инструкция по настройке GIT
+# _Инструкция_ __по__ ___настройке GIT___
+
+[Markdown syntax](https://www.markdownguide.org/basic-syntax/) 
 
 ## git init 
 
@@ -23,3 +25,15 @@
 ## git log --pretty=oneline
 
 Команда "git log --pretty=oneline" позволяеет вывести в одну строку хеш_файла + меседж к нему
+
+## git show "хеш_файла"
+
+Команда *git show "хеш_файла"* позволяет посмотреть содежимое измененного файла
+
+
+![](/pic/gti_log.png)
+
+
+Berekashvili Shalva
+
+sbit_menedger@mail.ru
