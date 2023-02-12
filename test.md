@@ -69,3 +69,7 @@ sbit_menedger@mail.ru
 Но сегодня на семинаре нам расказали про такой вариант вывода:
 
 >git log --all --graph --oneline --decorate
+
+И еще один любопытный метод
+
+>git log --pretty=format:"%h - %an, %ar : %s"
